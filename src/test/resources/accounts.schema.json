@@ -12,6 +12,7 @@
       "balance",
       "currency"
     ],
+    "additionalProperties": false,
       "properties": {
       "id": {
         "type": "integer"
